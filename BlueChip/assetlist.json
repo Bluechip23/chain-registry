@@ -1,6 +1,6 @@
 {
     "$schema": "../assetlist.schema.json",
-    "chain_name": "blueChip",
+    "chain_name": "bluechip",
     "assets": [
       {
         "description": "The native staking token of BlueChip.",
