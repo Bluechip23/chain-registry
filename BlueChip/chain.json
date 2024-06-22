@@ -1,14 +1,14 @@
 {
     "$schema": "../chain.schema.json",
-    "chain_name": "BlueChip",
+    "chain_name": "bluechip",
     "status": "live",
     "website": "https://www.bluechip.link",
     "network_type": "mainnet",
-    "pretty_name": "blueChip",
+    "pretty_name": "BlueChip",
     "chain_id": "bluechip_1",
     "bech32_prefix": "bcp",
     "daemon_name": "bluechipd",
-    "node_home": "$HOME/.BlueChip",
+    "node_home": "$HOME/.bluechip",
     "slip44": 118,
     "key_algos": [
         "secp256k1"
@@ -56,8 +56,8 @@
       ]
     },
     "logo_URIs": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/BlueChip/images/BlueChip.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/BlueChip/images/BlueChip.svg"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluechip/images/bluechip.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluechip/images/bluechip.svg"
     },
     "peers": {
       "seeds": [],
@@ -71,8 +71,8 @@
     },
     "images": [
       {
-        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/BlueChip/images/BlueChip.png",
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/BlueChip/images/BlueChip.svg"
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluechip/images/bluechip.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluechip/images/bluechip.svg"
       }
     ]
   }
