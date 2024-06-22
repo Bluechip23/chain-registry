@@ -4,7 +4,7 @@
     "status": "live",
     "website": "https://www.bluechip.link",
     "network_type": "mainnet",
-    "pretty_name": "BlueChip",
+    "pretty_name": "blueChip",
     "chain_id": "bluechip_1",
     "bech32_prefix": "bcp",
     "daemon_name": "bluechipd",
@@ -40,7 +40,6 @@
       ],
       "cosmos_sdk_version": "0.46.7",
       "cosmwasm_enabled": true,
-     
       "genesis": {
         "genesis_url": "https://github.com/Bluechip23/bluechip/blob/main/genesis.json"
       },
@@ -70,7 +69,6 @@
         }
       ]
     },
-   
     "images": [
       {
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/BlueChip/images/BlueChip.png",
