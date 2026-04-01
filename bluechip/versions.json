@@ -15,6 +15,16 @@
       "cosmwasm": {
         "enabled": true
       }
+    },
+    {
+      "name": "main-b038b8103e7b91c95b5b08d8eb7f809a4bbfe89f",
+      "recommended_version": "main-b038b8103e7b91c95b5b08d8eb7f809a4bbfe89f",
+      "compatible_versions": [
+        "main-b038b8103e7b91c95b5b08d8eb7f809a4bbfe89f"
+      ],
+      "consensus": {
+        "type": "cometbft"
+      }
     }
   ]
 }
