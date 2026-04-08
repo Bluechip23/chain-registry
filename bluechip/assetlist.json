@@ -8,12 +8,16 @@
         {
           "denom": "ubluechip",
           "exponent": 0,
-          "aliases": ["microbluechip"]
+          "aliases": [
+            "microbluechip"
+          ]
         },
         {
           "denom": "mbluechip",
           "exponent": 3,
-          "aliases": ["millibluechip"]
+          "aliases": [
+            "millibluechip"
+          ]
         },
         {
           "denom": "bluechip",
@@ -29,7 +33,16 @@
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluechip/images/bluechip.png"
       },
       "type_asset": "sdk.coin",
-      "keywords": ["staking", "defi", "creator-economy"]
+      "keywords": [
+        "staking",
+        "defi",
+        "creator-economy"
+      ],
+      "images": [
+        {
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluechip/images/bluechip.png"
+        }
+      ]
     }
   ]
 }
