@@ -31,15 +31,15 @@
   },
   "codebase": {
     "git_repo": "https://github.com/Bluechip23/bluechip-chain-official.git",
-    "recommended_version": "main-28606ee7937aeb0fb7ef23b44de057d75859b0be",
+    "recommended_version": "v1.0.0",
     "compatible_versions": [
-      "main-28606ee7937aeb0fb7ef23b44de057d75859b0be"
+      "v1.0.0"
     ],
     "consensus": {
       "type": "cometbft"
     },
     "genesis": {
-      "genesis_url": "https://raw.githubusercontent.com/Bluechip23/bluechip-chain-official.git/main/genesis.json"
+      "genesis_url": "https://raw.githubusercontent.com/Bluechip23/bluechip-chain-official/main/genesis.json"
     }
   },
   "peers": {
